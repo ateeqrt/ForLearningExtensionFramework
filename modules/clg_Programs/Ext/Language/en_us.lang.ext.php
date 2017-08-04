@@ -9,3 +9,10 @@ $mod_strings['LBL_CLG_PROGRAMS_CLG_DISCIPLINES_1_FROM_CLG_PROGRAMS_TITLE'] = 'Pr
 $mod_strings['LBL_CLG_PROGRAMS_CLG_DISCIPLINES_1_FROM_CLG_DISCIPLINES_TITLE'] = 'Disciplines';
 
 ?>
+<?php
+// Merged from custom/Extension/modules/clg_Programs/Ext/Language/en_us.lang.php
+
+// WARNING: The contents of this file are auto-generated.
+$mod_strings['LBL_TIMING'] = 'timing';
+
+?>

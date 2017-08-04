@@ -19,3 +19,13 @@ $dictionary["clg_Programs"]["fields"]["clg_programs_clg_disciplines_1"] = array 
 );
 
 ?>
+<?php
+// Merged from custom/Extension/modules/clg_Programs/Ext/Vardefs/sugarfield_timing_c.php
+
+ // created: 2017-08-04 17:37:39
+$dictionary['clg_Programs']['fields']['timing_c']['labelValue']='timing';
+$dictionary['clg_Programs']['fields']['timing_c']['dependency']='';
+$dictionary['clg_Programs']['fields']['timing_c']['visibility_grid']='';
+
+ 
+?>
