@@ -4,5 +4,5 @@
 <?php
 // Merged from custom/Extension/modules/Schedulers/Ext/Language/en_us.lang.php
 
-$mod_strings['LBL_SCHEDULEDFUNCTION'] = 'Custom Scheduled Function';
+$mod_strings['LBL_customScheduler'] = 'Custom Scheduled Function';
 ?>
